@@ -1,0 +1,2 @@
+# [Issue] Clear color tied to render texture
+Clear color is tied to the render texture, and always vec4.

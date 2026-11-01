@@ -1,1 +1,0 @@
-Clear color is tied to the render texture, and always vec4.
